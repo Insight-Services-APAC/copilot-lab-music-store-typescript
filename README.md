@@ -25,4 +25,4 @@ However, if you're really stuck, you can take a peek at the finished solution he
 Happy coding!
 
 ------------
-[Proceed to Step 01 - Getting Started](./01-Step01.md)
+[Next - Getting Started with Node, Express & Next.js using Copilot chat](./01-Step01.md)
