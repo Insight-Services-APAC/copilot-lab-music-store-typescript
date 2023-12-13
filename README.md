@@ -20,7 +20,7 @@ Basic knowledge of JavaScript and TypeScript is recommended.
 
 If you find yourself stuck at any point during the lab, remember to ask questions to GitHub Copilot in the chat. It's there to help you!
 
-However, if you're really stuck, you can take a peek at the finished solution here: [https://github.com/ollief87/copilot-spa-music-store](https://github.com/ollief87/copilot-spa-music-store). But remember, try to figure it out on your own first. The real learning happens when you're solving problems yourself!
+However, if you're really stuck, you can take a peek at the finished solution here: [https://github.com/ollief87/copilot-lab-music-store-typescript-complete](https://github.com/ollief87/copilot-lab-music-store-typescript-complete). But remember, try to figure it out on your own first. The real learning happens when you're solving problems yourself!
 
 Happy coding!
 
