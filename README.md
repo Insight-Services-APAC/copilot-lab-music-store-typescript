@@ -1,5 +1,6 @@
 > [!IMPORTANT]  
-> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) repository
+> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) repository<br>
+> For our full list of available labs please visit [https://github-insight-anz-lab.github.io/github-copilot-labs-list](https://github-insight-anz-lab.github.io/github-copilot-labs-list)
 >
 # Welcome to the GitHub Copilot Lab
 
