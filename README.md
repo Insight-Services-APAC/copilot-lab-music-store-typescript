@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) repository
+>
 # Welcome to the GitHub Copilot Lab
 
 This lab is designed to help you get started with Node.js, Express, Next.js, and TypeScript, all while learning how to use GitHub Copilot in Visual Studio Code.
